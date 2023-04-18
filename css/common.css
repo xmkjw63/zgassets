@@ -29,7 +29,7 @@ body {
 
 @font-face {
 	font-family: 'gamefont';
-	src: url('/age/static/font/gamefont.ttf');
+	src: url("https://zgfans.net/static/font/test.ttf");
 }
 
 
